@@ -1,0 +1,49 @@
+body {
+  font-family: monospace;
+  background: #1c1c1c;
+  color: #eaeaea;
+  margin: 0;
+  padding: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  background: #2b2b2b;
+  border: 1px solid #444;
+  color: #fff;
+}
+
+.button-bar {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  background: #333;
+  border: 1px solid #555;
+  color: #fff;
+  padding: 6px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.card {
+  border-bottom: 1px dashed #555;
+  padding: 10px 0;
+}
+
+.reference {
+  color: #6ab0f3;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 11px;
+  color: #aaa;
+}
